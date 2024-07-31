@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently enhancing my expertise in **DevOps by working with Azure**
 
-- 👨‍💻 All of my projects are available at [https://shriya-portfolio-three.vercel.app](https://shriya-portfolio-three.vercel.app)
-
 - 💬 Ask me about **react, node, mySQL, Python**
 
 - 📫 How to reach me **shriya.upasani11@gmail.com**
