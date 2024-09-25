@@ -5,7 +5,7 @@
 - 🌱 I’m currently enhancing my expertise in **DevOps by working with Azure**
 
 - 💬 Ask me about **react, node, mySQL, Python**
-- 
+
 - Check out more about me at **https://shriya-upasani.vercel.app/**
 
 - 📫 How to reach me **shriya.upasani11@gmail.com**
